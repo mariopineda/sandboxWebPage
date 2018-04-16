@@ -1,3 +1,9 @@
+<!-- Place this tag in your head or just before your close body tag. -->
+<script async defer src="https://buttons.github.io/buttons.js"></script>
+
+<!-- Place this tag where you want the button to render. -->
+
+<a class="github-button" href="https://github.com/ntkme/github-buttons/fork" data-icon="octicon-repo-forked" data-size="large" data-show-count="true" aria-label="Fork ntkme/github-buttons on GitHub">Fork</a>
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/mariopineda/sandboxWebPage/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
